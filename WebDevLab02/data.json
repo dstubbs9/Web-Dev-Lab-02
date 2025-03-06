@@ -1,0 +1,115 @@
+{
+  "trip_data": [
+    {
+      "Place": "Turks and Caicos",
+      "Year": 2023
+    },
+    {
+      "Place": "Minneapolis, Minnesota",
+      "Year": 2024
+    },
+    {
+      "Place": "Panama City Beach, Florida",
+      "Year": 2024
+    },
+    {
+      "Place": "Negril, Jamaica",
+      "Year": 2024
+    },
+    {
+      "Place": "Ocho Rios, Jamaica",
+      "Year": 2024
+    },
+    {
+      "Place": "Turks and Caicos",
+      "Year": 2024
+    },
+    {
+      "Place": "Turks and Caicos",
+      "Year": 2025
+    },
+    {
+      "Place": "Turks and Caicos",
+      "Year": 2025
+    },
+    {
+      "Place": "Europe",
+      "Year": 2025
+    },
+    {
+      "Place": "The Bahamas",
+      "Year": 2025
+    }
+  ],
+  "favorite_vacation_locations": [
+    {
+      "Place": "Los Angeles, California",
+      "amt_times": 5
+    },
+    {
+      "Place": "Negril, Jamaica",
+      "amt_times": 1
+    },
+    {
+      "Place": "Ocho Rios, Jamaica",
+      "amt_times": 1
+    },
+    {
+      "Place": "Paris, France",
+      "amt_times": 1
+    },
+    {
+      "Place": "Rome, Italy",
+      "amt_times": 1
+    },
+    {
+      "Place": "Turks and Caicos",
+      "amt_times": 4
+    }
+  ],
+  "packing_slider": {
+    "min_value": 1,
+    "max_value": 15,
+    "default_value": 12,
+    "responses": {
+      "1-5": "So you think I'm boring?",
+      "5-8": "I wish I packed this light.",
+      "9-11": "Yes, you are correct!",
+      "12+": "That would be a crazy amount for 5 days!"
+    }
+  },
+  "favorite_activities": [
+    {
+      "Activity": "swimming in the ocean",
+      "Rating": 9
+    },
+    {
+      "Activity": "pool",
+      "Rating": 6
+    },
+    {
+      "Activity": "sitting on the beach",
+      "Rating": 5
+    },
+    {
+      "Activity": "kayaking",
+      "Rating": 7
+    },
+    {
+      "Activity": "tubing",
+      "Rating": 10
+    },
+    {
+      "Activity": "parasailing",
+      "Rating": 10
+    },
+    {
+      "Activity": "snorkeling",
+      "Rating": 3
+    },
+    {
+      "Activity": "drinking pina coladas",
+      "Rating": 8
+    }
+  ]
+}
